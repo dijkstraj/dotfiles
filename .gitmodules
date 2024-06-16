@@ -13,3 +13,6 @@
 [submodule ".config/tmux/plugins/vim-tmux-navigator"]
 	path = .config/tmux/plugins/vim-tmux-navigator
 	url = https://git::@github.com/christoomey/vim-tmux-navigator
+[submodule ".oh-my-zsh"]
+	path = .oh-my-zsh
+	url = https://github.com/ohmyzsh/ohmyzsh.git
